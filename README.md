@@ -10,5 +10,3 @@ This collection relies on the community to grow, so your participation is highly
 Thank you for your interest!
 
 ----
-Lead: Samuel Audet [samuel.audet `at` gmail.com](mailto:samuel.audet at gmail.com)  
-Site: https://github.com/bytedeco/sample-projects
